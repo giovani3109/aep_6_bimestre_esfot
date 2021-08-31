@@ -6,25 +6,27 @@ O Macheck é um sistema de lembretes para efetuar a manutenção das maquinas de
 ## Como funciona?
 Primeiro o usuário informa qual é o plano de plantio anual e realizar o cadastro de seus maquinários, para que possamos levantar os possiveis periodos em que deverá ser realizada a manutenção e notifica-los. Seguindo os periodos previstos de manutenção ao realizar os checklists e relatar os detalhes, juntamos em uma base de dados os defeitos encontrados e verificamos se existe algum outro defeito semelhante na mesma peça e informamos as concessionárias agricolas sobre o mesmo.
 
-#### Requisitos funcionais
+### Requisitos funcionais
 🏗
 
-#### Requisitos não funcionais
+### Requisitos não funcionais
 🏗
 
-#### Diagrama de caso de uso
+### Diagrama de caso de uso
 🏗
 
-#### Diagrama de classes
+### Diagrama de classes
 🏗
 
-#### Diagrama de atividade
+### Diagrama de atividade
 🏗
 
-#### Pontos de função
+### Modelo entidade relacionamento
+
+### Pontos de função
 🏗
 
-#### Cédigo
+### Código
 🏗
 
 
