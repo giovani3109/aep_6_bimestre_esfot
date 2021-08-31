@@ -33,10 +33,10 @@ Primeiro o usuário informa qual é o plano de plantio anual e realizar o cadast
 
 
 
-echo "# aep_6_bimestre_esfot" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/Sotoriva/aep_6_bimestre_esfot.git
-git push -u origin main
+[comment]: <> (echo "# aep_6_bimestre_esfot" >> README.md)
+[comment]: <> (git init)
+[comment]: <> (git add README.md)
+[comment]: <> (git commit -m "first commit")
+[comment]: <> (git branch -M main)
+[comment]: <> (git remote add origin https://github.com/Sotoriva/aep_6_bimestre_esfot.git)
+[comment]: <> (git push -u origin main)
